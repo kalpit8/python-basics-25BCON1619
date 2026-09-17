@@ -30,3 +30,17 @@ A clear `README.md` has been added with a list of all Python programs, their pur
 
 The repository provides a useful collection of Python basics for practice. The improved README makes the project easier for others to navigate, understand, and run.
 ``
+# Commit-Message Comparison
+
+| Commit | My Message | AI Message | Which is clearer, and why? |
+|--------|------------|------------|-----------------------------|
+| 1 | `feat : add factorial program` | `feat: implement factorial calculation script` | **AI message** — Uses standard conventional commit formatting (no space before the colon) and clearly describes the script's purpose. |
+| 2 | `feat : fibonacci program` | `feat: add fibonacci sequence generator` | **AI message** — Adds an action verb and clearly explains that the program generates a Fibonacci sequence. |
+| 3 | `feat : add dictionary program` | `feat: add dictionary key-value operations script` | **AI message** — Gives more specific context about the dictionary operations. |
+| 4 | `feat : add multiplication program` | `feat: add multiplication table generator script` | **AI message** — Clearly states that the program generates a multiplication table. |
+| 5 | `feat : add pattern program` | `feat: add star and number pattern printing script` | **AI message** — Specifies the type of patterns printed by the program. |
+| 6 | `feat : add list program` | `feat: implement basic list operations and iteration` | **AI message** — Describes the actual functionality instead of using a generic title. |
+
+## Summary
+
+The AI-generated commit messages are generally clearer because they follow conventional commit formatting, use action verbs, and describe the exact functionality of each Python program.
